@@ -1,0 +1,16 @@
+Sales_ID,Product,Category,Quantity,Price,Sale_Date,Customer_Region
+1,Laptop,Electronics,6,1200,2024-03-15,West
+2,Smartphone,Electronics,,800,2024-03-22,East
+3,Tablet,Electronics,3,500,2024-03-10,South
+4,Headphones,Accessories,11,150,2024-03-05,North
+5,Smartwatch,Electronics,2,250,2024-03-30,West
+6,Printer,Electronics,1,300,2024-03-12,East
+7,Monitor,Electronics,,450,2024-03-18,South
+8,External Hard Drive,Accessories,4,200,2024-03-25,North
+9,Gaming Console,Electronics,3,400,2024-03-07,West
+10,Camera,Electronics,2,600,2024-03-20,East
+11,Wireless Earbuds,Accessories,9,100,2024-03-14,South
+12,Router,Electronics,1,150,2024-03-03,North
+13,Power Bank,Accessories,,80,2024-03-29,West
+14,Smart Speaker,Electronics,5,200,2024-03-16,East
+15,Fitness Tracker,Electronics,3,150,2024-03-11,South
